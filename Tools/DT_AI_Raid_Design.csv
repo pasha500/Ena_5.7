@@ -1,0 +1,6 @@
+﻿Name,NodeId,PosX,PosY,PosZ,ZoneId,RoomType,RoomRole,Difficulty,CombatWeight,BotProfile,EnemyPreset,LootLevel,RoomSize,Connections,NodeTags,RoomPrefabId,SpawnCount,LootCount,EnvType,Theme,ObstacleDensity,Seed,LootStrategy,EnterableBuildingRatio,TraversalLaneSeeds
+RaidNode_0,0,0.0,0.0,0.0,1,Start,진입 지점 (Entry Point),0.8,0.1,Tactical,None,Common,Small,1,안전 지대 (Safe Zone),Start,5,10,Jungle,Jungle,0.2,63198,Scattered,0.5,1
+RaidNode_1,1,-1508.768999577191,10517.330512345556,0.0,1,Combat,적대적 위협 감지됨 (Threat Detected),1.0,0.5,Tactical,Scavenger,Common,Medium,"0,2",교전 구역 (Combat Sector),Combat,10,20,Jungle,Jungle,0.3,72058,Scattered,0.7,2
+RaidNode_2,2,-20193.38201172029,6617.387923397834,0.0,1,Combat,적대적 위협 감지됨 (Threat Detected),0.8,0.1,Tactical,None,Common,Large,"1,3",교전 구역 (Combat Sector),Combat,15,30,Jungle,Jungle,0.1,77430,Scattered,0.9,1
+RaidNode_3,3,-18278.948841933663,26113.13183503603,0.0,1,Boss,극도의 위협 감지 (Extreme Danger),1.0,0.5,Tactical,Scavenger,Common,Medium,"2,4",위험 구역 (Boss Lair),Boss,20,40,Jungle,Jungle,0.4,60641,Scattered,0.8,2
+RaidNode_4,4,-34307.88785068262,-25084.23471475627,0.0,1,Exit,작전 완료 가능 (Mission Complete),0.8,0.1,Tactical,None,Common,Large,3,탈출 지점 (Extraction Point),Exit,25,50,Jungle,Jungle,0.2,75604,Scattered,1.0,3
